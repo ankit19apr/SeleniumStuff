@@ -1,5 +1,5 @@
 
-# Telit Interview Assignment
+# Java Based Console Application
 
 Part 1: Student Management System
 
