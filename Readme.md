@@ -4,9 +4,9 @@
 Part 1: Student Management System
 
 ## Author
-- Jatin Sharma SDET with 10 years of experience in Automation Testing for UI-API-Mobile
+- Ankit Sharma SDET with 12 years of experience in Software Testing with handson on Automation Testing for UI.
 
-[Linked In](https://www.linkedin.com/in/jatinshharma/)
+[Linked In][(https://www.linkedin.com/in/ankit19apr/)]
 
 
 ## Tech Stack
